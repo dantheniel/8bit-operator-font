@@ -1,0 +1,11 @@
+@font-face {
+    font-family: '8bit Operator JVE';
+    src: url('https://raw.githubusercontent.com/dantheniel/8bit-operator-font/main/8bitoperator-jve-regular.eot'); /* IE9 Compat Modes */
+    src: url('https://raw.githubusercontent.com/dantheniel/8bit-operator-font/main/8bitoperator-jve-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('https://raw.githubusercontent.com/dantheniel/8bit-operator-font/main/8bitoperator-jve-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('https://raw.githubusercontent.com/dantheniel/8bit-operator-font/main/8bitoperator-jve-regular.woff') format('woff'), /* Pretty Modern Browsers */
+         url('https://raw.githubusercontent.com/dantheniel/8bit-operator-font/main/8bitoperator-jve-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('https://raw.githubusercontent.com/dantheniel/8bit-operator-font/main/8bitoperator-jve-regular.svg#8bitOperatorJVE') format('svg'); /* Legacy iOS */
+    font-weight: normal;
+    font-style: normal;
+}
